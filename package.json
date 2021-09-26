@@ -10,18 +10,10 @@
     "seed": "cd server && npm run seed",
     "build": "cd client && npm run build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HassanY99/Redux-Store.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/HassanY99/Redux-Store/issues"
-  },
-  "homepage": "https://github.com/HassanY99/Redux-Store#readme",
   "devDependencies": {
-    "concurrently": "^6.2.1"
+    "concurrently": "^5.1.0"
   }
 }
