@@ -5,7 +5,7 @@
   ## Description
 
   This is an e-commerce website that is made by using Redux for managing the global state.
-  Link of live portfolio: [Live App](https://rs-live-deploy.herokuapp.com/)
+  Link of live app: [Live App](https://rs-live-deploy.herokuapp.com/)
 
   ## Licensing
 
